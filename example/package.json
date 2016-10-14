@@ -1,0 +1,11 @@
+{
+  "name": "static-bel-example",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "static-bel elements/root.js > index.html"
+  },
+  "devDependencies": {
+    "bel": "^4.5.0",
+    "static-bel": "^0.2.0"
+  }
+}
