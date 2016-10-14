@@ -11,7 +11,7 @@ const path = require('path')
 const program = require('commander')
 const minify = require('html-minifier').minify;
 
-const version = '0.0.6'
+const version = '0.2.0'
 
 program
   .version(version)
