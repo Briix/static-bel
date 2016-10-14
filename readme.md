@@ -1,6 +1,9 @@
 # static-bel [![Build Status](https://secure.travis-ci.org/Briix/static-bel.svg?branch=master)](https://travis-ci.org/Briix/static-bel) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
-Easy single page rendering of bel components
+Easy single page rendering of bel components.
+Idea is very much taken from jxnblk's
+[static-react](https://github.com/jxnblk/static-react) and basically just
+converted to work with bel instead of React.
 
 ## Installation
 
